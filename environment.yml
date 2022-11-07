@@ -1,0 +1,10 @@
+name: ipympl
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - numpy
+  - jupyterlab>=3
+  - matplotlib
+  - ipympl>=0.9
+  - ipywidgets>=8
